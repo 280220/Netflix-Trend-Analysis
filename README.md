@@ -1,6 +1,6 @@
 ## Netflix-Trend-Analysis
 
-What are the trends in movies and tv shows of Netflix? A Netflix Data Visualization
+# What are the trends in movies and tv shows of Netflix? A Netflix Data Visualization
 
 In the present notebook I am going to analize and gain insight of the kind of content available in the Netflix dataset.
 
@@ -18,3 +18,12 @@ What is the most frequent word in the datasets's show titles?
 Which country produces most titles?
 How long is a typical movie?
 Which show genre is the most frequently ocurring in Netflix?
+
+# Methodology
+
+
+
+# Sources
+
+https://www.kaggle.com/shivamb/netflix-shows
+
